@@ -42,8 +42,10 @@
 ## 📊 GitHub Stats:
 ![Kavita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavita-LachmanDas&show_icons=true&theme=radical)  
 
-🏆 **GitHub Trophies:**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kavita-LachmanDas&theme=darkhub)  
+ 
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kavita-LachmanDas&theme=radical&no-frame=true&margin-w=5)  
+ 
 
 ✍️ **Random Dev Quote:**  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  

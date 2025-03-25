@@ -17,25 +17,26 @@
 ---
 
 ## 🌐 Connect with me:  
-[🌐 Portfolio](https://portfolio-using-next-js-five.vercel.app/) |  
-[🔗 LinkedIn](https://www.linkedin.com/in/kavita-luhana-0a31842ab/) |  
-[💻 GitHub](https://github.com/Kavita-LachmanDas)  
+![🌐 Portfolio](https://portfolio-using-next-js-five.vercel.app/) |  
+![🔗 LinkedIn](https://www.linkedin.com/in/kavita-luhana-0a31842ab/) |  
+![💻 GitHub](https://github.com/Kavita-LachmanDas)  
 
 ---
 
-## 💻 Tech Stack:  
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat&logo=tailwind-css)  
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)  
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+ 
 
 ---
 

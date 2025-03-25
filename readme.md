@@ -12,9 +12,9 @@
 - Git & GitHub  
 
 ### 📫 Connect with me:
-- **Portfolio:** [your-portfolio-link](https://portfolio-using-next-js-five.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/kavita-luhana-0a31842ab/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BrB8BPa1gSNWHtP65SNl3Fw%3D%3D)
-- **GitHub:** [github.com/yourusername](https://github.com/Kavita-LachmanDas)
+- **Portfolio:** [my_portfolio](https://portfolio-using-next-js-five.vercel.app/)
+- **LinkedIn:** [my_linkedin_account](https://www.linkedin.com/in/kavita-luhana-0a31842ab/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BrB8BPa1gSNWHtP65SNl3Fw%3D%3D)
+- **GitHub:** [my_github_account](https://github.com/Kavita-LachmanDas)
 
 ---
 ⭐️ **Fun Fact:** I love solving logic-building challenges and creating unique UI components!

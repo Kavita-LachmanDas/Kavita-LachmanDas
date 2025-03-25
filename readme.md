@@ -16,10 +16,10 @@
 
 ---
 
-## 🌐 Connect with me:  
-![🌐 Portfolio](https://portfolio-using-next-js-five.vercel.app/) |  
-![🔗 LinkedIn](https://www.linkedin.com/in/kavita-luhana-0a31842ab/) |  
-![💻 GitHub](https://github.com/Kavita-LachmanDas)  
+## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel)](https://portfolio-using-next-js-five.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kavita-luhana-0a31842ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Kavita-LachmanDas)
 
 ---
 

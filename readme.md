@@ -141,7 +141,7 @@ const kavita = {
 
 ## 🏆 **GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kavita-LachmanDas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavita-LachmanDas&theme=tokyonight" />
 
 </div>
 

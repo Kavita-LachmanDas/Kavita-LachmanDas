@@ -163,12 +163,14 @@ const kavita = {
 
 ## 🎨 **Featured Projects**
 
-<a href="https://github.com/Kavita-LachmanDas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavita-LachmanDas&repo=your-ai-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+<a href="https://github.com/Kavita-LachmanDas/AI-Assistant">
+  <img src="https://img.shields.io/badge/AI-Assistant-00F7FF?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/Kavita-LachmanDas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kavita-LachmanDas&repo=your-mern-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+<a href="https://github.com/Kavita-LachmanDas/MernStackApp">
+  <img src="https://img.shields.io/badge/MernStackApp-00F7FF?style=for-the-badge&logo=github" />
 </a>
+
+
 
 </div>
 

@@ -226,8 +226,8 @@ graph LR
 
 **Let's build something amazing together! 🚀**
 
-<a href="mailto:kavitaluhana11@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+<a href="mailto:kavitaluhana11@gmail.com?subject=Opportunity%20Discussion&body=Hi%20Kavita,%0D%0AI%20would%20like%20to%20connect%20with%20you.">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>

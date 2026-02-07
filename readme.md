@@ -132,7 +132,7 @@ const kavita = {
 
 ## 🔥 **Contribution Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavita-LachmanDas&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Kavita-LachmanDas&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
 
 </div>
 
